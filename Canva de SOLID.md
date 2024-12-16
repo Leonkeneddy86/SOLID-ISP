@@ -1,0 +1,3 @@
+Principios (ISP)
+
+![[SOLID.pdf]]

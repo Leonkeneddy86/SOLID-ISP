@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "26e760965ad6be2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "69e59abf7173bdfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c07a8fc1da1bf40a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid en general.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solid en general"
+            }
+          },
+          {
+            "id": "54564867b6c0b6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid en general.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solid en general"
+            }
+          },
+          {
+            "id": "2b7231836baf2b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borradores/Primer borrador.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primer borrador"
+            }
+          },
+          {
+            "id": "77b6bfd8672c58cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borradores/Ejemplos Interface Segregation Principle (ISP) Borrador 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejemplos Interface Segregation Principle (ISP) Borrador 2"
+            }
+          },
+          {
+            "id": "e1317192b95fa6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid en general.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solid en general"
+            }
+          },
+          {
+            "id": "6797572a2cd31c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canva de SOLID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Canva de SOLID"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71f80d9d5cb3c4cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2130763e967381b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e7c4f683413a141",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "71d9baae5c326afc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f205d21683e6431b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80188e0f14a10d95",
+    "type": "split",
+    "children": [
+      {
+        "id": "a970e5a91a865a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734e593653eb6c33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d8e6e2447bdf9445",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "18b3fbef080e2cab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6b2ddc61e75218ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Crear nueva nota única": false
+    }
+  },
+  "active": "6797572a2cd31c3d",
+  "lastOpenFiles": [
+    "SOLID.pdf",
+    "Solid en general.md",
+    "Canva de SOLID.md",
+    "¿Qué son los principios SOLID en programación La mejor explicación en español.mp4",
+    "Ejemplo de Interfaz subscribe.png",
+    "Class Notifications.png",
+    "README.md",
+    "Borradores/Principios de la letra I de Solid.md",
+    "Borradores/Primer borrador.md",
+    "Borradores/Mas ejemplos.md",
+    "Borradores/Ejemplos Interface Segregation Principle (ISP) Borrador 2.md",
+    "Borradores",
+    "Letra I"
+  ]
+}
