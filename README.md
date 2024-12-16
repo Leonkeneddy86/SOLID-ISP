@@ -25,4 +25,4 @@
 
 ##### All the explanation of SOLID, and as a team we have made a presentation in Canva of the letter “I” of ISP (Interface segregation principle).
 
-## All of this will be uploaded to an Obsidian# SOLID (ISP)
+## All of this will be uploaded to an Obsidian
